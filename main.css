@@ -146,7 +146,7 @@ main {
 
 .stay-productive div {
   width: 90%;
-  margin-bottom: 1.5rem;
+  margin: 1.5rem auto;
 }
 
 .stay-productive-illustration {
